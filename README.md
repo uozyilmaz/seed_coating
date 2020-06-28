@@ -1,6 +1,6 @@
 # seed coating device with using arduino
 ![Device](/device.png)
-## Step motor connections to arduino
+## Step motor connections to arduino (from pololu.com)
 ![Connections](/connection.jpg)
 ## Formula calculation for delay time
 ![Calc](/rpm_calc.png)
