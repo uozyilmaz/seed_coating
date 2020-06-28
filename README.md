@@ -1,9 +1,12 @@
-# seed_coating
+# seed coating device with using arduino
 ![Device](/device.png)
+## Step motor connections to arduino
 ![Connections](/connection.jpg)
+## Formula calculation for delay time
 ![Calc](/rpm_calc.png)
+## Set up scheme
 ![Diag](/sc.png)
-
+## Arduino codes (IDE 1.8.10)
 ```
 
 
