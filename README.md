@@ -1,5 +1,7 @@
 # Seed coating device with using Arduino
 ![Device](/device.png)
+# Coated cotton seeds samples
+![Device](/seeds.JPG)
 ## Step motor connections to Arduino (from pololu.com)
 ![Connections](/connection.jpg)
 ## Formula calculation for delay time
